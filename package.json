@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Akflash.github.io/portfolio/",
+  "homepage": "https://Akflash.github.io/",
   "dependencies": {
     "bootstrap": "^4.5.2",
     "react": "^16.13.1",

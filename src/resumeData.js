@@ -7,7 +7,7 @@ let resumeData = {
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/akshay-kumar-krishna-kumar//",
+          "url":"https://www.linkedin.com/in/AK-AK",
           "className":"fa fa-linkedin"
         },
         {
@@ -57,6 +57,13 @@ let resumeData = {
     ],
     "work":[
       {
+        "CompanyName":"Verde Finance",
+        "specialization":"Software Intern",
+        "startdate":"Aug 2020",
+        "enddate":"Feb 2021",
+    
+       },
+      {
         "CompanyName":"Air Liquide Medical Systems Pvt Ltd.",
         "specialization":"Software Intern",
         "startdate":"Nov 2018",
@@ -65,10 +72,10 @@ let resumeData = {
        },
       {
         "CompanyName":"UTD",
-        "specialization":"CS Outreach Instructor",
+        "specialization":"Graduate Research Assitant",
         "startdate":"Oct 2019",
         "enddate":"Aug 2020",
-      }
+      },
     ],
     "skills":[
       {
@@ -118,9 +125,9 @@ let resumeData = {
       },
       {
         "key":"4",
-        "name":"BLACK MONEY MONITORING USING BLOCKCHAIN TECHNOLOGY  ",
-        "description":"•	Created a tenant driven connectivity mechanism by implementing block chain technology. This project implemented big data concept to monitor money exchange and overall user behaviour for all money transactions.",
-        "imgurl":"images/blockchain.jpg"
+        "name":"INTEGRATED LIBRARY MANAGEMENT SYSTEM",
+        "description":"•	Used MySQL database that allows users to store the customer and book details. Implementation of the system was developed using TkInter-Python GUI based application with MySQL and Python was used for the backend. ",
+        "imgurl":"images/library.PNG"
       }
     ]
     

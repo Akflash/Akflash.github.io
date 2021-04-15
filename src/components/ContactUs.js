@@ -7,7 +7,7 @@ export default class ContactUs extends Component {
           <div className="row section-head" style={{width:"800px", margin:"0 auto"}}>
             <div className="ten columns">
               <h1 style={{width:"800px", margin:"0 auto"}}>
-              <a className="resume-link " target="_blank" href="https://drive.google.com/file/d/1lZWgenJK0esEfKb4GlBSXYRmZ1ecvIGb/view?usp=sharing">Resume</a>
+              <a className="resume-link " target="_blank" href="https://drive.google.com/file/d/1s-WuBoxglwI_gdnnjgKWQW3zM4zO9VqJ/view?usp=sharing">Resume</a>
               <span>.</span>
               <a href="mailto:akshaysrinivasan97@gmail.com">akshaysrinivasan97@gmail.com</a>
              

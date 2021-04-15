@@ -33,7 +33,7 @@ let resumeData = {
           "className":"fa fa-code"
         }
       ],
-    "aboutme":"I am currently a second year student at The University of Texas at Dallas and pursuing my Masters in Computer Science. I am a passionate individual for programming and coding who is looking for a Fall 2020/Spring 2021 internship or a full time role after I graduate in Summer 2021.",
+    "aboutme":"I am currently a second year student at The University of Texas at Dallas and pursuing my Masters in Computer Science. I am a passionate individual for programming and coding who is looking for a full time role after I graduate in Summer 2021.",
     "address":"Dallas, Texas",
     "befquote":"One thought that keeps me going is",
     "quote": "Don't let yesterday take too much of today ",
